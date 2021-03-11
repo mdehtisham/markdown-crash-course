@@ -51,4 +51,18 @@ Example:
 <!-- Blockquotes -->
 Greater than (>) is used to add blockquotes.  
 Example:  
-> This is a Quote.
+> This is a Quote.  
+
+<!-- Links -->
+> ## Links
+The text you want to add as a link goes into square bracket and the url goes into parenthesis.  
+Example:  
+[Github](www.github.com)
+
+> ### Title to a link  
+Create a link the add the space in parenthesis and add the title in double quotes ("").  
+Example:  
+<!-- [website text](url "title")   -->
+[Github](www.github.com "github")  
+
+> ## Unordered List
