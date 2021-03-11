@@ -37,3 +37,9 @@ __strong text using double underscore__
 Double ~(tilde) is used to strike through any text.  
 Example:  
 ~~double tilde~~ is used to strike through.
+
+<!-- Horizontal Rule -->
+Triple _ (underscore) or Triple -(hyphen/dash) is used to create a horizontal rule.  
+Example:
+___
+
