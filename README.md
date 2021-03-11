@@ -43,3 +43,7 @@ Triple _ (underscore) or Triple -(hyphen/dash) is used to create a horizontal ru
 Example:
 ___
 
+<!-- Escape Character -->
+Back Slash is used to escape characters.  
+Example:  
+*\*Italic\**
