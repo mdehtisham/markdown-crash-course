@@ -124,3 +124,17 @@ function sayHello(){
     console.log('hello world')
 }
 ```
+
+## Table
+To see the syntax to table go to raw tab and see it.
+
+| Name | Email    |
+|------|--------  |
+|John  |john@g.com|
+|Jane  |jane@g.com|
+
+## Task List
+Add te * (asterisk) before each item. After that add [x] for completed tasks and [ ] for incomplete task.  
+* [x] item 1
+* [ ] item 2
+* [x] item 3
