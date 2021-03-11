@@ -106,4 +106,21 @@ Images can be added similarly we add links, with only one difference i.e. we jus
 
 
 # Github Markdown
-Github uses its own flavour of markdown.
+Github uses its own flavour of markdown.  
+
+## Code Blocks
+We use triple `(backticks) to create a code block.    
+Example:
+```
+npm install 
+npm start
+etc
+```
+## Language specific code block
+We use triple `(backticks) and add the name of language in the end of starting backticks.  
+Example: 
+```javascript
+function sayHello(){
+    console.log('hello world')
+}
+```
