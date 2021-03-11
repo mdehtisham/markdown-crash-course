@@ -16,7 +16,7 @@ Example:
 
 <!-- Line Break in markdown -->
 ## Line Break
-Line break can be added using double space (<space> <space>) or \ backslash in the end.  
+Line break can be added using double space or \ (backslash) in the end.  
 Example:  
 I am first sentence.  
 I am second sentence. \
@@ -96,3 +96,6 @@ Ordered list can be created by adding 1. before each item, each item should be i
 1. Item 2
 1. Item 3
 
+## Inline Codeblock
+Use `` (backticks) in beginning and end to write inline code block.  
+`<p> This is a paragraph</p>`
