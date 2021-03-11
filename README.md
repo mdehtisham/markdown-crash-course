@@ -98,4 +98,12 @@ Ordered list can be created by adding 1. before each item, each item should be i
 
 ## Inline Codeblock
 Use `` (backticks) in beginning and end to write inline code block.  
-`<p> This is a paragraph</p>`
+`<p> This is a paragraph</p>`  
+
+## Images
+Images can be added similarly we add links, with only one difference i.e. we just have to add ! mark before the link syntax.  
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+
+# Github Markdown
+Github uses its own flavour of markdown.
