@@ -47,3 +47,8 @@ ___
 Back Slash is used to escape characters.  
 Example:  
 *\*Italic\**
+
+<!-- Blockquotes -->
+Greater than (>) is used to add blockquotes.  
+Example:  
+> This is a Quote.
