@@ -66,7 +66,18 @@ Example:
 [Github](www.github.com "github")  
 
 > ## Unordered List
+Unordered list can be created by just added * infront of each item, and each items should be in new line.  
+Example:  
+* Item 1
+* Item 2
+* Item 3  
+
+> ## Nested Items  
+Nested list can created by adding single tab before an item.
 
 * Item 1
 * Item 2
 * Item 3
+    * Nested level 2
+        * Nested level 3
+* Item 4
