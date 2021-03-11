@@ -26,3 +26,14 @@ Example:
 
 *This Text* is Italic.  
 _I am also_ Italic.
+
+<!-- Strong -->
+Strong text can be written using double * or double _.  
+Example:  
+**strong text using double asterisk**  
+__strong text using double underscore__
+
+<!-- Strike Through -->
+Double ~(tilde) is used to strike through any text.  
+Example:  
+~~double tilde~~ is used to strike through.
