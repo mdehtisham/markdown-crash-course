@@ -73,7 +73,7 @@ Example:
 * Item 3  
 
 > ## Nested Items  
-Nested list can created by adding single tab before an item.
+Nested list can be created by adding single tab before an item.
 
 * Item 1
 * Item 2
@@ -81,3 +81,9 @@ Nested list can created by adding single tab before an item.
     * Nested level 2
         * Nested level 3
 * Item 4
+
+> ## Ordered List  
+Ordered list can be created by adding 1. before each item, each item should be in new line.  
+1. Item 1
+1. Item 2
+1. Item 3
